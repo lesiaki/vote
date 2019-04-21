@@ -1,0 +1,130 @@
+[
+  {
+    "_id": "5cbcbb9efe71538c17b0ec9d",
+    "index": 0,
+    "guid": "42a6de74-3e81-4493-986b-26b2559147a7",
+    "isActive": false,
+    "balance": "$3,227.54",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "blue",
+    "code": 6530,
+    "vote": 5295,
+    "name": {
+      "first": "Stanley",
+      "last": "Bray"
+    }
+  },
+  {
+    "_id": "5cbcbb9ee62bc9b8347bcd30",
+    "index": 1,
+    "guid": "b8a22bb7-7757-44dd-90b3-79fc8ed5db6f",
+    "isActive": true,
+    "balance": "$1,591.99",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "brown",
+    "code": 3725,
+    "vote": 7728,
+    "name": {
+      "first": "Lilia",
+      "last": "Conway"
+    }
+  },
+  {
+    "_id": "5cbcbb9e079212d56c05c1c0",
+    "index": 2,
+    "guid": "a8d3ecce-5cc1-4717-8922-133f1de5841a",
+    "isActive": true,
+    "balance": "$2,222.79",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "eyeColor": "green",
+    "code": 7535,
+    "vote": 4075,
+    "name": {
+      "first": "Wilma",
+      "last": "Parks"
+    }
+  },
+  {
+    "_id": "5cbcbb9ef78c740197b8d709",
+    "index": 3,
+    "guid": "268d81ee-da7e-40ae-993e-ce15c26d77f5",
+    "isActive": false,
+    "balance": "$3,986.38",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "eyeColor": "blue",
+    "code": 6841,
+    "vote": 3031,
+    "name": {
+      "first": "Rowland",
+      "last": "Kennedy"
+    }
+  },
+  {
+    "_id": "5cbcbb9e6b850abb442652dc",
+    "index": 4,
+    "guid": "2ee46a56-80c4-4a94-8837-61a3da83b2b4",
+    "isActive": true,
+    "balance": "$1,028.85",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "brown",
+    "code": 2676,
+    "vote": 3254,
+    "name": {
+      "first": "Velma",
+      "last": "Jimenez"
+    }
+  },
+  {
+    "_id": "5cbcbb9e445388ea5ceea3c8",
+    "index": 5,
+    "guid": "06bc5ded-1aa1-45c3-b902-6568fa17d3a5",
+    "isActive": false,
+    "balance": "$3,966.57",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "blue",
+    "code": 2983,
+    "vote": 6663,
+    "name": {
+      "first": "Esmeralda",
+      "last": "Briggs"
+    }
+  },
+  {
+    "_id": "5cbcbb9ef021bac8b8932f7c",
+    "index": 6,
+    "guid": "709d2eb8-dd59-49d6-9f5e-06cff937e81d",
+    "isActive": false,
+    "balance": "$2,171.75",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "green",
+    "code": 4252,
+    "vote": 1969,
+    "name": {
+      "first": "Duffy",
+      "last": "Young"
+    }
+  },
+  {
+    "_id": "5cbcbb9eef8adf9578707bd5",
+    "index": 7,
+    "guid": "d66eddc0-2276-4f04-b638-cb5fede95353",
+    "isActive": true,
+    "balance": "$3,162.73",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "blue",
+    "code": 9081,
+    "vote": 6101,
+    "name": {
+      "first": "Cameron",
+      "last": "Lancaster"
+    }
+  }
+]
